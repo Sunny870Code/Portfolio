@@ -19,7 +19,7 @@ export default function Hero() {
             <div className="absolute inset-x-0 bottom-0 flex justify-center z-21 pointer-events-none ">
                 <div className="relative w-64 h-64 md:w-72 md:h-72 rounded-full overflow-hidden border-[2px] border-neutral-400  shadow-2xl grayscale contrast-125">
                     <img
-                        src="src/assets/images/portfolio.png"
+                        src="public\portfolio.png"
                         alt="Kunal Pawar"
                         className="w-full h-full object-cover object-top scale-135 md:scale-150 -translate-y-10"
                     />
