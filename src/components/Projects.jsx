@@ -26,7 +26,7 @@ export default function Projects() {
           <div className="relative overflow-hidden rounded-xl bg-neutral-900 border border-neutral-800 aspect-video group">
             {/* Project Screenshot */}
             <img
-              src="public\preview.webp"
+              src="/preview.webp"
               alt="Spoon & Fork Dashboard Preview"
               className="w-full h-full object-cover object-top transform transition-transform duration-500 group-hover:scale-105"
               loading="lazy"
@@ -59,7 +59,7 @@ export default function Projects() {
           <div className="relative overflow-hidden rounded-xl bg-neutral-900 border border-neutral-800 aspect-video group">
             {/* Project Screenshot */}
             <img
-              src="public\preview2.png"
+              src="/preview2.png"
               alt="Spoon & Fork Dashboard Preview"
               className="w-full h-full object-cover object-top transform transition-transform duration-500 group-hover:scale-105"
               loading="lazy"
